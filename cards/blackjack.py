@@ -1,8 +1,5 @@
 #create an interactive blackjack game
 import random
-import pandas
-import plotly.graph_objects as go
-import plotly.express as px
 
 #create a deck of cards
 deck = []
